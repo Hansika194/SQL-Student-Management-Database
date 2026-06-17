@@ -14,8 +14,11 @@ storage, retrieval, analysis, and updating records.
 Tools Used 
 
 • SQLite 
+
 • DB Browser for SQLite 
+
 • GitHub 
+
 • LinkedIn 
 
 Queries Performed
